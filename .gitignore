@@ -4,6 +4,5 @@
 # Temporary files
 _temp_request.json
 
-# Config with sensitive data (user should create their own)
-# Uncomment below if you want to keep config.env private
-# config.env
+# User config with API key (users create from config.env.example)
+config.env

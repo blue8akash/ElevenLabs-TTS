@@ -10,6 +10,7 @@ Generate MP3 audio files from text scripts using [ElevenLabs](https://elevenlabs
    - Copy your API key
 
 2. **Configure Settings**
+   - Copy `config.env.example` to `config.env`
    - Edit `config.env` with your:
      - `API_KEY` - Your ElevenLabs API key
      - `VOICE_ID` - Voice to use (find in Voice Library)
