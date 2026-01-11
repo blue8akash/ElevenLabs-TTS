@@ -1,0 +1,9 @@
+# Generated audio files
+*.mp3
+
+# Temporary files
+_temp_request.json
+
+# Config with sensitive data (user should create their own)
+# Uncomment below if you want to keep config.env private
+# config.env
